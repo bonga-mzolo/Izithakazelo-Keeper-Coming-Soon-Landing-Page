@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon - Izithakazelo Keeper</title>
+    <link rel="icon" type="image/png" href="assets/mono-01.png">
+    <style>
+        :root {
+            --dark-maroon: #20090C;
+            --cream-beige: #F5D4A9;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--cream-beige);
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            overflow: hidden;
+            color: var(--dark-maroon);
+        }
+
+        .pattern-container {
+            height: 120px;
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            background-color: var(--dark-maroon);
+        }
+
+        .pattern-track {
+            display: flex;
+            width: 200%;
+            height: 100%;
+            background-image: url('assets/pattern.png');
+            background-repeat: repeat-x;
+            background-size: contain;
+            animation: slide 40s linear infinite;
+        }
+
+        .bottom .pattern-track {
+            animation: slide-reverse 40s linear infinite;
+        }
+
+        @keyframes slide {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        @keyframes slide-reverse {
+            0% { transform: translateX(-50%); }
+            100% { transform: translateX(0); }
+        }
+
+        .content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .logo {
+            width: 100%;
+            max-width: 180px;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: clamp(1.8rem, 5vw, 2.5rem);
+            font-weight: 800;
+            line-height: 1.2;
+            max-width: 800px;
+            margin-bottom: 24px;
+        }
+
+        p {
+            font-size: clamp(0.9rem, 2vw, 1.1rem);
+            line-height: 1.6;
+            max-width: 650px;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 600px) {
+            .pattern-container {
+                height: 80px;
+            }
+            .logo {
+                max-width: 140px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="pattern-container top">
+        <div class="pattern-track"></div>
+    </div>
+
+    <main class="content">
+        <img src="assets/logo.png" alt="Izithakazelo Keeper Logo" class="logo">
+        
+        <h1>A new home for African lineage and clan history is on the horizon.</h1>
+        
+        <p>
+            We are currently gathering the praises of the ancients to build a digital shield for your heritage.<br>
+            Your story is being prepared.
+        </p>
+    </main>
+
+    <div class="pattern-container bottom">
+        <div class="pattern-track"></div>
+    </div>
+
+</body>
+</html>
