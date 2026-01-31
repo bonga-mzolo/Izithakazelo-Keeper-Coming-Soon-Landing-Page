@@ -3,124 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coming Soon - Izithakazelo Keeper</title>
-    <link rel="icon" type="image/png" href="assets/mono-01.png">
-    <style>
-        :root {
-            --dark-maroon: #20090C;
-            --cream-beige: #F5D4A9;
-        }
+    <title>Izithakazelo Keeper</title>
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            background-color: var(--cream-beige);
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            overflow: hidden;
-            color: var(--dark-maroon);
-        }
-
-        .pattern-container {
-            height: 120px;
-            width: 100%;
-            overflow: hidden;
-            position: relative;
-            background-color: var(--dark-maroon);
-        }
-
-        .pattern-track {
-            display: flex;
-            width: 200%;
-            height: 100%;
-            background-image: url('assets/pattern.png');
-            background-repeat: repeat-x;
-            background-size: contain;
-            animation: slide 40s linear infinite;
-        }
-
-        .bottom .pattern-track {
-            animation: slide-reverse 40s linear infinite;
-        }
-
-        @keyframes slide {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
-        }
-
-        @keyframes slide-reverse {
-            0% { transform: translateX(-50%); }
-            100% { transform: translateX(0); }
-        }
-
-        .content {
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-            text-align: center;
-        }
-
-        .logo {
-            width: 100%;
-            max-width: 180px;
-            margin-bottom: 40px;
-        }
-
-        h1 {
-            font-size: clamp(1.8rem, 5vw, 2.5rem);
-            font-weight: 800;
-            line-height: 1.2;
-            max-width: 800px;
-            margin-bottom: 24px;
-        }
-
-        p {
-            font-size: clamp(0.9rem, 2vw, 1.1rem);
-            line-height: 1.6;
-            max-width: 650px;
-            opacity: 0.9;
-        }
-
-        @media (max-width: 600px) {
-            .pattern-container {
-                height: 80px;
-            }
-            .logo {
-                max-width: 140px;
-            }
-        }
-    </style>
+    <meta name="description" content="Find your heritage. The largest digital database of Izithakazelo, Zulu clan names, and praise poetry. Search for clans like Ngcobo, Dlamini, Mkhize, and more.">  
+    <meta name="keywords" content="izithakazelo, zulu clans, praise names, isibongo, zulu heritage, south african clans">
+    
+    <link rel="icon" type="image/svg+xml" href="assets/mono.svg">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="pattern-container top">
-        <div class="pattern-track"></div>
+    <header>
+    <div class="nav-container">
+        <a href="index.html">
+            <img src="assets/IKlogo.svg" alt="Logo" class="logo">
+        </a>
+
+        <button class="hamburger" id="menu-toggle" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+
+        <nav id="mobile-menu">
+            <a href="index.html" class="active">Home</a>
+            <a href="explore.html">Explore Clans</a>
+            <a href="contribute.html">Contribute</a>
+            <a href="about.html">About Us</a>
+        </nav>
     </div>
+    <div class="pattern-bar"></div>
+    </header>
 
-    <main class="content">
-        <img src="assets/logo.png" alt="Izithakazelo Keeper Logo" class="logo">
-        
-        <h1>A new home for African lineage and clan history is on the horizon.</h1>
-        
-        <p>
-            We are currently gathering the praises of the ancients to build a digital shield for your heritage.<br>
-            Your story is being prepared.
-        </p>
-    </main>
 
-    <div class="pattern-container bottom">
-        <div class="pattern-track"></div>
+    <section class="hero">
+        
+<div class="search-container">
+    <input type="text" placeholder="Enter your Surname / Isibongo.." id="home-search">
+    <img src="assets/search.svg" alt="Search" class="search-icon">
+</div>
+        <h1>Know Your Clans,<br>Know Yourself.</h1>
+    </section>
+
+    <section class="spotlight-section">
+    <h2>Isithakazelo Spotlight</h2>
+    <div class="spotlight-grid" id="spotlight-container">
+        </div>
+    <div class="spotlight-actions">
+        <a href="explore.html" class="btn-explore-more">See All Clans</a>
     </div>
+    </section>
 
+    <section class="about-section">
+        <div class="about-content">
+            <h2>What are Izithakazelo?</h2>
+            <p>More than just a surname, Izithakazelo are the poetic heartbeat of our identity. They are clan based praise names used by Nguni speaking peoples including the Zulu, Xhosa, Swazi, and Ndebele to invoke the spirit and history of their lineage.</p>
+            <a href="about.html">
+        <button class="btn-learn">Learn More</button>
+    </a>
+        </div>
+        <img src="assets/beehive-hut.webp" alt="Beehive Hut" class="hut-overlay">
+    </section>
+
+    <section class="stats-section" id="stats">
+    <h2>Izithakazelo Keeper</h2>
+    <p class="subtitle">Preserving Zulu cultural heritage through digital documentation</p>
+
+    <div class="stats-grid">
+        <div class="stat-item">
+            <h3 class="counter" data-target="0">0</h3>
+            <p>Clans Documented</p>
+        </div>
+
+        <div class="stat-item">
+            <h3 class="counter" data-target="0">0</h3>
+            <p>Praise Names</p>
+        </div>
+
+        <div class="stat-item">
+            <h3>24/7</h3>
+            <p>Cultural Access</p>
+        </div>
+    </div>
+</section>
+
+
+    <footer>
+        <div class="pattern-bar"></div>
+        <div class="footer-content">
+            <div class="footer-col">
+                <h4>Izithakazelo Keeper</h4>
+                <p>Preserving Zulu cultural heritage through digital documentation</p>
+            </div>
+            <div class="footer-col">
+                <h4>Quick Links</h4>
+                <a href="index.html">Home</a>
+                <a href="explore.html">Explore Clans</a>
+                <a href="contribute.html">Contribute</a>
+                <a href="about.html">About Us</a>
+            </div>
+            <div class="footer-col">
+                <h4>Contact</h4>
+                <p>gratiformdesigns@gmail.com</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2026 Izithakazelo Keeper. All rights reserved.</p>
+        </div>
+    </footer>
+
+<script src="script.js"></script>
 </body>
 </html>

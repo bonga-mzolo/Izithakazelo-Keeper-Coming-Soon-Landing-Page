@@ -1,0 +1,892 @@
+:root {
+    --primary-cream: #f5d4a9;
+    --dark-brown: #571d0a;
+    --white: #ffffff;
+}
+
+/* =========================
+   Home Page Layout
+========================= */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: var(--primary-cream);
+    color: var(--dark-brown);
+}
+
+.pattern-bar {
+    height: 60px;
+    background-image: url('assets/pattern.svg');
+    background-size: contain;
+    width: 100%;
+}
+
+/* Header */
+header {
+    background-color: var(--primary-cream);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%;
+}
+
+.logo { height: 80px; }
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 28px;
+    height: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1100;
+}
+
+.hamburger span {
+    display: block;
+    height: 3px;
+    width: 100%;
+    background-color: var(--dark-brown);
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+    transform: translateX(-10px);
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: var(--dark-brown);
+    font-size: 0.9rem;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    background-color: rgba(87, 29, 10, 0.1);
+}
+
+nav a.active {
+    background: var(--dark-brown);
+    color: var(--primary-cream);
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+/* Hero Section */
+.hero {
+    background: url('assets/Drakensberg.webp');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--white);
+}
+
+.search-container {
+    background: rgba(245, 212, 169, 0.8);
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: 1px solid var(--dark-brown);
+    width: 40%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.search-container input {
+    border: none;
+    background: transparent;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+}
+
+.search-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+
+.hero h1 {
+    font-size: 4rem;
+    line-height: 1.1;
+    margin: 0;
+}
+
+/* Spotlight Section Styles */
+.spotlight-section {
+    padding: 60px 10%;
+    text-align: center;
+    background-color: var(--primary-cream);
+}
+
+.spotlight-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: var(--dark-brown);
+}
+
+.spotlight-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.spotlight-tag {
+    background: var(--white);
+    color: var(--dark-brown);
+    padding: 12px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, background 0.2s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spotlight-tag:hover {
+    transform: translateY(-3px);
+    background: #fffdfa;
+}
+
+.spotlight-actions {
+    margin-top: 40px;
+}
+
+.btn-explore-more {
+    background-color: var(--dark-brown);
+    color: var(--primary-cream);
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: opacity 0.3s;
+}
+
+.btn-explore-more:hover {
+    opacity: 0.9;
+}
+
+/* About Section */
+.about-section {
+    background-color: var(--dark-brown);
+    color: var(--primary-cream);
+    padding: 80px 10%;
+    position: relative;
+    overflow: hidden;
+}
+
+.about-content { width: 50%; }
+
+.about-section h2 { font-size: 2.5rem; margin-bottom: 20px; }
+
+.about-section p { line-height: 1.6; font-size: 1.1rem; }
+
+.btn-learn {
+    background-color: var(--primary-cream);
+    color: var(--dark-brown);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.hut-overlay {
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 110%;
+    opacity: 0.4;
+}
+
+/* Stats Section */
+.stats-section {
+    text-align: center;
+    padding: 80px 10%;
+}
+
+.stats-section h2 { font-size: 2.5rem; margin-bottom: 5px; }
+
+.stats-grid {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.stat-item h3 { font-size: 3rem; margin: 0; }
+
+/* Footer */
+footer {
+    background-color: var(--dark-brown);
+    color: var(--primary-cream);
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 10%;
+}
+
+.footer-col h4 { margin-bottom: 15px; }
+
+.footer-col a {
+    display: block;
+    color: var(--primary-cream);
+    text-decoration: none;
+    font-size: 0.8rem;
+    margin-bottom: 8px;
+}
+
+.copyright {
+    border-top: 1px solid var(--primary-cream);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.8rem;
+}
+
+
+/* =========================
+   Explore Page Layout
+========================= */
+
+.explore-container {
+    background-color: var(--dark-brown);
+    padding: 40px 10%;
+    text-align: center;
+    min-height: 80vh;
+}
+
+.explore-container h1 {
+    color: var(--primary-cream);
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+/* Alphabet Filter Box */
+.filter-box {
+    background-color: var(--primary-cream);
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.alphabet-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.letter {
+    background: white;
+    color: var(--dark-brown);
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    min-width: 30px;
+    font-size: 0.9rem;
+}
+
+.letter.active-letter {
+    background: var(--dark-brown);
+    color: white;
+}
+
+/* Secondary Search Bar */
+.search-wrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -10px;
+}
+
+.secondary-search {
+    width: 350px !important;
+    background: var(--primary-cream) !important;
+}
+
+/* Clans List Card */
+.clans-list-card {
+    background-color: var(--primary-cream);
+    border-radius: 15px;
+    padding: 50px 80px;
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto 60px auto;
+}
+
+.clan-group {
+    margin-bottom: 30px;
+}
+
+.clan-group h3 {
+    margin: 0 0 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--dark-brown);
+}
+
+
+.clan-tags {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.clan-tag {
+    background: white;
+    padding: 8px 18px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: var(--dark-brown)
+}
+
+/* =========================
+   Clan Page Specific Styles
+========================= */
+
+.clan-page-body {
+    background-color: var(--primary-cream);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.clan-content {
+    flex: 1;
+    position: relative;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Close Button (X) */
+.close-btn {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    font-size: 2.5rem;
+    text-decoration: none;
+    color: var(--dark-brown);
+    font-family: 'Arial', sans-serif;
+    font-weight: lighter;
+}
+
+.close-btn:hover {
+    opacity: 0.7;
+}
+
+/* Praise Content Typography */
+.praise-container {
+    text-align: center;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+.praise-container h1 {
+    font-size: 2.2rem;
+    margin-bottom: 50px;
+    font-weight: normal;
+}
+
+.praise-text p {
+    margin: 8px 0;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: var(--dark-brown);
+}
+
+
+.bottom-pattern {
+    margin-top: auto;
+}
+
+/* =========================
+   Form Page Layout
+========================= */
+
+.form-container {
+    background-color: var(--dark-brown);
+    padding: 40px 10%;
+    text-align: center;
+}
+
+.form-container h1 {
+    color: var(--primary-cream);
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.contribute-card {
+    background-color: var(--primary-cream);
+    border-radius: 15px;
+    padding: 50px 80px;
+    max-width: 1000px;
+    margin: 0 auto 60px auto;
+    text-align: left;
+}
+
+.form-intro {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+    color: var(--dark-brown);
+}
+
+/* Form Styling */
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: var(--dark-brown);
+}
+
+.form-group input, 
+.form-group textarea, 
+.form-group select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--dark-brown);
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+/* Custom Select Arrow */
+.select-wrapper {
+    position: relative;
+}
+
+.select-wrapper::after {
+    content: '▼';
+    font-size: 0.8rem;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+select {
+    appearance: none;
+}
+
+/* Submit Button */
+.btn-submit {
+    width: 100%;
+    background-color: var(--dark-brown);
+    color: var(--primary-cream);
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: opacity 0.2s;
+    margin-top: 10px;
+}
+
+.btn-submit:hover {
+    opacity: 0.9;
+}
+
+/* =========================
+   About Page Specific Layout
+========================= */
+
+.about-container {
+    background-color: var(--dark-brown);
+    padding: 40px 10%;
+    text-align: center;
+}
+
+.about-container h1 {
+    color: var(--primary-cream);
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+/* Reusable Info Card */
+.info-card {
+    background-color: var(--primary-cream);
+    border-radius: 15px;
+    padding: 50px 80px;
+    max-width: 1000px;
+    margin: 0 auto 60px auto;
+    text-align: left;
+    color: var(--dark-brown);
+}
+
+.info-card h3 {
+    font-size: 1.8rem;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.info-card p {
+    line-height: 1.6;
+    font-size: 1.05rem;
+}
+
+/* About List Styling */
+.about-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.about-list li {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.5;
+}
+
+/* Custom Bullet Point */
+.about-list li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    color: var(--dark-brown);
+}
+
+@media (min-width: 1440px) {
+    .hero h1 {
+        font-size: 4.5rem;
+    }
+
+    .spotlight-section,
+    .stats-section {
+        padding: 80px 15%;
+    }
+}
+
+
+@media (max-width: 1024px) {
+     .filter-box {
+        width: 90%;
+        max-width: 900px; 
+        margin: 0 auto 30px auto;
+        padding: 25px;
+    }
+
+    .alphabet-grid {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 12px;
+
+    }
+
+    .letter {
+        width: 100%;
+        padding: 12px 0;
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .search-wrap {
+        margin: 20px 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .secondary-search {
+        width: 90% !important;
+        max-width: 450px; 
+        position: relative;
+        z-index: 10;
+    }
+
+    
+    .clans-list-card {
+        padding: 40px 5%;
+        width: 90%;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+    .hamburger {
+        display: flex;
+    }
+    
+    nav {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 100%;
+        height: 100vh;
+        background-color: var(--primary-cream);
+        display: flex !important; 
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+        transition: 0.4s ease-in-out;
+    }
+
+    
+    nav.open {
+        right: 0;
+    }
+
+    .close-icon {
+        display: block;
+        position: absolute;
+        top: 30px;
+        right: 30px;
+        width: 25px;
+    }
+
+    nav a {
+        font-size: 1.5rem !important;
+        margin: 15px 0 !important;
+        width: 80%;
+        text-align: center;
+    }
+
+    nav a.active {
+        background: var(--dark-brown);
+        color: var(--primary-cream);
+        padding: 10px 20px;
+    }
+
+    .nav-container {
+        flex-direction: row !important;
+        justify-content: space-between;
+    }
+    
+    .hero {
+        height: 400px;
+    }
+    
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    
+    .search-container {
+        width: 85%;
+    }
+    
+    .spotlight-section {
+        padding: 40px 5%;
+    }
+    .spotlight-section h2 {
+        font-size: 1.8rem;
+    }
+    .spotlight-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        align-items: center; 
+        text-align: center;
+        gap: 40px; 
+        padding: 40px 10%;
+    }
+
+    .footer-col {
+        width: 100%;
+    }
+
+    .footer-col a {
+        font-size: 1rem;
+        margin-bottom: 12px;
+    }
+    
+    
+    .about-section {
+        padding: 40px 5%;
+    }
+    
+    .about-content {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .hut-overlay {
+        position: relative;
+        width: 80%;
+        max-width: 250px;
+        margin: 30px auto 0;
+        top: 0;
+        right: 0;
+        transform: none;
+        opacity: 0.2;
+        display: block;
+    }
+    
+    .stats-grid {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+
+.explore-container, .form-container, .about-container {
+    padding: 40px 5%;
+    display: flex;          
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.filter-box {
+        width: 90%;
+        padding: 20px 10px;
+        margin: 0 auto 20px auto; 
+    }
+
+    .alphabet-grid {
+        display: grid; 
+        grid-template-columns: repeat(auto-fit, minmax(35px, 1fr)); 
+        gap: 8px;
+        justify-items: center;
+    }
+
+    .letter {
+        width: 100%;
+        text-align: center;
+        padding: 10px 0; 
+    }
+
+     .secondary-search {
+        width: 100% !important; 
+        max-width: 300px;
+    }
+
+    .clan-tags {
+        flex-wrap: wrap; 
+        gap: 10px;
+
+    }
+
+    
+    .close-btn {
+        right: 20px;
+        top: 10px;
+        font-size: 2rem;
+    }
+
+    .praise-container h1 {
+        font-size: 1.6rem;
+        margin-bottom: 30px;
+    }
+
+    .praise-text p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+}
+
+@media (max-height: 500px) {
+    .hero {
+        height: 300px;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+        margin: 10px 0;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .footer-content {
+        padding: 40px 5%;  
+    }
+
+    .footer-col h4 {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        text-decoration: underline;
+    }
+
+    .copyright {
+        font-size: 0.75rem;
+        padding: 20px 10px;
+    }
+
+    .search-container {
+        width: 80% !important;
+        margin: 0 auto 30px auto;
+        height: 20px;
+    }
+
+    .hero h1 {
+        font-size: 2rem; 
+        margin-top: 20px;
+    }
+
+    .spotlight-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .clans-list-card, .contribute-card, .info-card {
+        padding: 20px 15px;
+    }
+
+    .praise-container h1 {
+        font-size: 1.4rem;
+    }
+
+    
+    .logo {
+        height: 60px;
+    }
+}
+

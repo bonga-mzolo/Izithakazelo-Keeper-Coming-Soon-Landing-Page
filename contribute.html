@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribute - Izithakazelo Keeper</title>
+    <link rel="icon" type="image/svg+xml" href="assets/mono.svg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+    <div class="nav-container">
+        <a href="index.html">
+            <img src="assets/IKlogo.svg" alt="Logo" class="logo">
+        </a>
+        
+        <button class="hamburger" id="menu-toggle" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+
+        <nav id="mobile-menu">
+            <a href="index.html">Home</a>
+            <a href="explore.html">Explore Clans</a>
+            <a href="contribute.html" class="active">Contribute</a>
+            <a href="about.html">About Us</a>
+        </nav>
+    </div>
+</header>
+
+    <main class="form-container">
+        <h1>Contribute Form</h1>
+        
+        <div class="contribute-card">
+            <p class="form-intro">Help us preserve and expand our database of izithakazelo</p>
+            
+            <form action="https://formspree.io/f/xkgpleyj" method="POST">
+    <div class="form-group">
+        <label for="name">Your Name (Optional):</label>
+        <input type="text" id="name" name="name"> 
+    </div>
+    
+    <div class="form-group">
+        <label for="surname">Clan / Surname:</label>
+        <input type="text" id="surname" name="surname" required> 
+    </div>
+    
+    <div class="form-group">
+        <label for="type">Contribution Type:</label>
+        <div class="select-wrapper">
+            <select id="type" name="type" required>
+                 <option value="">-- Select Type --</option>
+          <option value="new">Add New Clan / Surname</option>
+          <option value="correction">Correction / Fix</option>
+          <option value="addition">Add Missing Izithakazelo</option>
+          <option value="other">Other Suggestion</option>
+            </select>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label for="details">Details / Suggestion:</label>
+        <textarea id="details" name="details" placeholder="Write your suggestion..." rows="6"></textarea>
+    </div>
+    
+    <button type="submit" class="btn-submit">Submit Contribution</button>
+</form>
+        </div>
+    </main>
+
+    <footer>
+        <div class="pattern-bar"></div>
+        <div class="footer-content">
+            <div class="footer-col">
+                <h4>Izithakazelo Keeper</h4>
+                <p>Preserving Zulu cultural heritage through digital documentation</p>
+            </div>
+            <div class="footer-col">
+                <h4>Quick Links</h4>
+                <a href="index.html">Home</a>
+                <a href="explore.html">Explore Clans</a>
+                <a href="contribute.html">Contribute</a>
+                <a href="about.html">About Us</a>
+            </div>
+            <div class="footer-col">
+                <h4>Contact</h4>
+                <p>gratiformdesigns@gmail.com</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2026 Izithakazelo Keeper. All rights reserved.</p>
+        </div>
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>

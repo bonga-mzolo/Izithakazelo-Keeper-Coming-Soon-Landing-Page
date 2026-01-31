@@ -1,0 +1,1751 @@
+[
+  {
+    "id": 1,
+    "name": "Bhengu",
+    "izithakazelo": [
+      "Ngcolosi",
+      "Wena WakwaDlabazane, KaNgwane",
+      "KaNephu kaLamula",
+      "Nyawo zigezwa ngamazolo",
+      "Nina enivuka nixubhe ngelala",
+      "Shongololo",
+      "Wathi uyalithinta lahwaqabala",
+      "Ngabe siyakudla sesab'imilenzelenze",
+      "Nyawo zeshongololo kaziphumuli",
+      "Sigampu",
+      "Ngwane, ingwani ngwadi",
+      "Abayibone ngesond'ukuthi iwelile",
+      "Jali",
+      "Nina enilala nomunwe",
+      "Nivuke nikhwif'ilanga",
+      "Mmemezi kaHlangabeza",
+      "Ngcolosi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Buthelezi",
+    "izithakazelo": [
+     "Shenge",
+     "Sokwalisa",
+     "Mnyamana kaNgqengelele",
+     "Phungashe",
+     "Sondiya",
+     "Mnandingamondi",
+     "Wena owadliwa zindlovukazi zamlobolela",
+     "Nina zinyawo ezimahhele",
+     "Enaganisa izintombi nanganye nangambili!"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cele",
+    "izithakazelo": [
+     "Ndosi",
+     "Nombedu",
+     "Khumbuza",
+     "Nkomo kayivuswa",
+     "Nkomo isengwa ilele",
+     "Wayisenga imile iyakhahlela",
+     "Siqunga esihle esingahlalwa nyoni",
+     "Siqunga esihle esizalela amasakabula",
+     "Mkhokheli owakhokhela isizwe ekugqilazweni",
+     "Dubandlela",
+     "Vico akagezanga",
+     "Ubuye nensila emfuleni",
+     "Ngoba ethembe ukugeza ngobisi",
+     "Magaye, Mande",
+     "Magaye ongangolwandle"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dlamini",
+    "izithakazelo": [
+      "Mahlase",
+      "Mvelase",
+      "Ngwane",
+      "Mkhatshwa"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Fakude",
+    "izithakazelo": [
+     "Mtolo",
+     "Msuthu",
+     "Ndabile",
+     "Cetshwayo",
+     "Shonombela",
+     "Mfene enduna ngoba ensikazi iyisbutubutwana omphotholozi",
+     "Cetshwayo, nkophe kayinethwa imkhemezo",
+     "Mayisandaba enkosini wena ozifungayo",
+     "Wena owahlokoloza iymbila zaphuma zasabalala",
+     "Wena owayesemfeni wathatha igeja walfaka emdidi wesaba ukulima",
+     "Ndabile inkosi kaycedwa!"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gumede",
+    "izithakazelo": [
+     "Mnguni",
+     "Qwabe",
+     "Mnguni kaYeyeye",
+     "Osidlabehlezi bakaKhondlo kaPhakathwayo",
+     "Abathi bedla, babeyenga umuntu ngendaba",
+     "Abathi “dluya kubeyethwe”",
+     "Kanti bahlinza imbuzi",
+     "Bathi umlobokazi ubeyethe kayikhuni",
+     "Sidika lolodaba",
+     "Phakathwayo!",
+     "Wena kaMalandela",
+     "Ngokulandel' izinkomo zamadoda",
+     "Amazala-nkosi lana!",
+     "Mpangazitha!"
+   ]
+  },
+  {
+    "id": 7,
+    "name": "Hlongwane",
+    "izithakazelo": [
+     "Ngwane kaNgwadi",
+     "Masumpa",
+     "Masenga sileka",
+     "Nduku zonobulongwe",
+     "Nina bakaMatiwane",
+     "USozisela kaMasumpa noTshani",
+     "Nina bebutho likaSangweni",
+     "UZikhali azilingani nezamaxhegwana",
+     "Sangolibanzi elingawelwa abantukazana",
+     "Ngoba livalwe ngezihlangu zamadoda",
+     "Kulobe lNtungwa lasenhla kwaSokhumalo"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jili",
+    "izithakazelo": [
+     "Masengwa",
+     "Qabase",
+     "Vilakazi",
+     "Mphephethwa",
+     "Nkom'esengw'ilele ngoba uma imile iyakhaba",
+     "Nomjoli",
+     "Binda",
+     "Ntombi engaqomi kwaJili iyogana impaka nesikhova",
+     "Gqagqangene!"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Khumalo",
+    "izithakazelo": [
+      "Mntungwa",
+     "Mbulaz'omnyama",
+     "Nina bakaBhej'eseNgome",
+     "Nin'enithi nidla beniyeng'umuntu ngendaba",
+     "Nin'enadl'izif'ezimbili ikhambi laphuma lilinye",
+     "Lobengula kaMzilikazi",
+     "Mzilikazi kaMashobane",
+     "Shobana noGasa kaZikode",
+     "Zikode kaMkhatshwa",
+     "Okhatshwe ngezind'izinyawo nangezimfushanyana",
+     "UMkhatshwa wawoZimangele",
+     "UNyama yeNtini yawoZimangele",
+     "Nin'enal'ukudl'umlenze kwaBulawayo",
+     "Nathi mlenze wankoni lo?",
+     "Ubungekho yini owezinkomo zakithi eNgome?",
+     "Donda weziziba akangakanani ngoba nasothini lomkhonto uyahlala",
+     "Nina enehlula abeSuthu, noShaka engazange abehlule",
+     "Mabaso owabas'entabeni kwadliwa ilanga lishona",
+     "BaNtungwa abancwaba",
+     "Zindlov'ezibantu",
+     "Zindlov'ezimacocombela",
+     "Nin'abakwaMaWela owawel'iZambezi ngezikhali",
+     "Nin'abakwaNkomo zavul'inqaba",
+     "Zavul'inqaba ngezimpondo kwelaseNgome zahamba",
+     "MaNtungwa Aluhlaza",
+     "MaNtungwa Amahle",
+     "Bantwana benkosi",
+     "Nin'abakwaNtokela",
+     "INkubela abayihlabe ngamanxeba",
+     "Abakhule ngezinyawo ezimfushanyana nezimaqhukulwana",
+     "Inyang'abathe beth'ifil'uZulu kanti isiyethwese",
+     "Yethwese ngonyakana kaMpeyana",
+     "UBando abalubande balushiy'uZulu",
+     "UNtshwintshwintshwi kaNoyanda kaNdaba",
+     "UNkone evele ngobus'emdibini",
+     "Ndabezitha!!",
+     "Maqhaw'amakhulu"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Luthuli",
+    "izithakazelo": [
+     "Mshibe!",
+     "Madlanduna!",
+     "Abadl'insikazi belambile,",
+     "Ngoze ngikwenze owangenza khona,",
+     "Nina eningawadl'amasi ningawanikiwe,",
+     "Nesab'amas'ehla ngendololwane,",
+     "Nina bakaMashiza,",
+     "Ndlwan'enhle!",
+     "Sigencagenca mbaz'ebukhali!",
+     "Malal'aqhamuke ngezansi,",
+     "Zingwaz'ezidl'inyama abanye bedla izinyamazane,",
+     "Mavel'enkomeni abanye bevel'emuntuni,",
+     "Luthuli lwezinkomo!",
+     "Mshibe kaNobopha,",
+     "Mshibe kaMkhiph'inj'efukwini kuzalele yena!",
+     "Donda!"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mkhize",
+    "izithakazelo": [
+     "Gcwabe",
+     "Khabazela, kaMavovo kaZihlandla",
+     "Gubhela",
+     "Mumbo omnhlophe",
+     "Wena waseMbo",
+     "Wena okhanya amasi esiswini",
+     "Singela",
+     "Nhlama eyaphelele' etsheni",
+     "Ngunezi",
+     "Mumbo ombulazi",
+     "Nina enadla umuntu nimyenga ngendaba",
+     "Sibi side esimajembelezana",
+     "Sibi side esimaphandla esaphandl'abeNguni bavungama",
+     "Nina bengwaz emabhudle",
+     "Eth' isabhudla yabuye yaphinda yabhudla",
+     "Malala amahle",
+     "Nin' enalala nomunwe",
+     "Navuka nakhwif'ilanga",
+     "Nzalo kaSambela",
+     "Nina bakaSidaphudaphu ngokubadaphunela",
+     "Nzalo kaLuzalo!",
+     "Zalankomo"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ndlovu",
+    "izithakazelo": [
+      "Gazini",
+      "Mthimkhulu",
+      "Mashiya"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Qwabe",
+    "izithakazelo": [
+     "Gumede",
+     "Sidinane",
+     "Nina bakaMalandela ngokulandela izinkomo zamadoda",
+     "Nina baseMthandeni",
+     "Osidlabehlezi kaPhathwayo",
+     "Phakathwayo kaKhondlo",
+     "Wena owabuza intaba ngabomu wathi ntabani leya?",
+     "Zaphendula izicathalala zathi",
+     "UNgoye Gumede! UNgoye Phakathwayo!",
+     "Nina bakaMeseni kaMusi",
+     "Nina bakaGodolozi kaKhondlo",
+     "Nina bakaMkhayiphi kaGodolozi"
+   ]
+  },
+  {
+    "id": 14,
+    "name": "Shezi",
+    "izithakazelo": [
+     "Dlaba",
+     "Shukulas'",
+     "Mnomiya",
+     "Dludle",
+     "Dludl'owadl'imihlambi yamadoda",
+     "Wadl'izinkomo zamaNdebele",
+     "Oyodl'ezikaDlaba uyoceba",
+     "Dlab' akadleli phansi",
+     "Udle' edlodlweni",
+     "Abanye bedlela phansi",
+     "Mavulane owavul' iNkandl'ivaliwe",
+     "Mchube",
+     "Mlotshwa",
+     "Wena kaLumbazo, kaZokufa",
+     "Sigananda phum'eNkandla!"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thabethe",
+    "izithakazelo": [
+     "Madliwa",
+     "Nyamande",
+     "Nyamakayishe",
+     "Ishe ngokphephezela",
+     "Msun' sengwayo Onjengethole",
+     "Wena owake wabona",
+     "Umsun usengwa",
+     "Gaduka!"
+  ]
+  },
+  {
+    "id": 16,
+    "name": "Xulu",
+    "izithakazelo": [
+     "Makhathini",
+     "Gxabhashe",
+     "Donda wasEnkweleni",
+     "Khuhla phansi njenge khowandlovu",
+     "Ntulikabongwa ubonga yena uzona umlomo",
+     "Wena owashaya phansi kwavela abantu nezinkomo",
+     "Sonkophe",
+     "Sombizi!"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Zulu",
+    "izithakazelo": [
+     "Ndabezitha",
+     "Zulu kaMalandela ngokulandela izinkomo zamadoda",
+     "Zulu omnyama ondlela zimhlophe",
+     "Wena kaPhunga noMageba",
+     "Wena kaMjokwane kaNdaba",
+     "Wena wenkayishana kaMenzi eyaphuza umlaza ngameva",
+     "S'thuli sikaNdaba",
+     "S'thuli sikaNkombane",
+     "Wena kasihhawuhhawu siyinkondlo bayikhuzile ngoba ikhuzwe abaphansi nabaphezulu",
+     "Wena kanogwaja omuhle ngomlenze",
+     "Wena kaMbambelashoba",
+     "Ndabezitha!"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Blose",
+    "izithakazelo": [
+      "Ngcolosi",
+      "Wena WakwaDlabazane, KaNgwane",
+      "KaNephu kaLamula",
+      "Nyawo zigezwa ngamazolo",
+      "Nina enivuka nixubhe ngelala",
+      "Shongololo",
+      "Wathi uyalithinta lahwaqabala",
+      "Ngabe siyakudla sesab'imilenzelenze",
+      "Nyawo zeshongololo kaziphumuli",
+      "Sigampu",
+      "Ngwane, ingwani ngwadi",
+      "Abayibone ngesond'ukuthi iwelile",
+      "Jali",
+      "Nina enilala nomunwe",
+      "Nivuke nikhwif'ilanga",
+      "Mmemezi kaHlangabeza",
+      "Ngcolosi"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bhebhe",
+    "izithakazelo": [
+      "Ngcolosi",
+      "Wena WakwaDlabazane, KaNgwane",
+      "KaNephu kaLamula",
+      "Nyawo zigezwa ngamazolo",
+      "Nina enivuka nixubhe ngelala",
+      "Shongololo",
+      "Wathi uyalithinta lahwaqabala",
+      "Ngabe siyakudla sesab'imilenzelenze",
+      "Nyawo zeshongololo kaziphumuli",
+      "Sigampu",
+      "Ngwane, ingwani ngwadi",
+      "Abayibone ngesond'ukuthi iwelile",
+      "Jali",
+      "Nina enilala nomunwe",
+      "Nivuke nikhwif'ilanga",
+      "Mmemezi kaHlangabeza",
+      "Ngcolosi"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Biyela",
+    "izithakazelo": [
+      "Ngcolosi",
+      "Wena WakwaDlabazane, KaNgwane",
+      "KaNephu kaLamula",
+      "Nyawo zigezwa ngamazolo",
+      "Nina enivuka nixubhe ngelala",
+      "Shongololo",
+      "Wathi uyalithinta lahwaqabala",
+      "Ngabe siyakudla sesab'imilenzelenze",
+      "Nyawo zeshongololo kaziphumuli",
+      "Sigampu",
+      "Ngwane, ingwani ngwadi",
+      "Abayibone ngesond'ukuthi iwelile",
+      "Jali",
+      "Nina enilala nomunwe",
+      "Nivuke nikhwif'ilanga",
+      "Mmemezi kaHlangabeza",
+      "Ngcolosi"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Makhanya",
+    "izithakazelo": [
+     "Gumede",
+     "Wena kaMalandela kaLuzumane",
+     "Phakathwayo kaKhondlokaMncinci",
+     "Osidlabehlezi kaPhakathwayo",
+     "Abathi bedlumuntu bemyenga ngendaba",
+     "Bethi dluya kubeyethwe umakoti ubuyethe kabukhuni",
+     "Kanti bahliz'imbuzi",
+     "Wena owabuz'intaba ngabomu wathi ntabani leya?",
+     "Zaphendula icathalala, zathi'uNgoye Gumede, uNgoye Phakathwayo'",
+     "Wena waseMthandeni ezweni loju nezinyosi",
+     "Mpangazitha ozikhangayo",
+     "Mnguni kaYeyeye",
+     "Khondlo kaPhakathwayo, Khuzwayo",
+     "Wena kaNjakaba kaSophana",
+     "Meseni kaMusi",
+     "Mkhayiphe kaGodolozi"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Mtolo",
+    "izithakazelo": [
+     "Dlangamandla",
+     "Mngwenya Nkomo",
+     "Zulu omnyama okhanye ezintabeni zoKhahlamba",
+     "Gasa",
+     "Wena owaxhoshisa okaSenzangakhona ngezinkomo zekhethelo",
+     "Mchenge",
+     "Mzolo",
+     "Ntshiza",
+     "Mamba emnyama enophaph' ekhanda",
+     "Shiyamvula!",
+     "Okonjane zimnyama ngokubhula amaphiko",
+     "Gaphesheya komZinyathi",
+     "Mnisi!"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mdletshe",
+    "izithakazelo": [
+     "Ngomane",
+     "Wena kaMqomboli",
+     "Msindazwe",
+     "Mfuyi wamatshe abanye befuya izinkomo",
+     "Mfusi kaMawewe",
+     "Wena waseZisayini",
+     "Mnomo",
+     "Dukuza",
+     "Msindazibaya owasina eMangweni nasakoDonda"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Madlala",
+    "izithakazelo": [
+     "Mpofana",
+     "Omafela asize",
+     "Nina bakaMpofana nina bakaSahluko",
+     "Nina bakaSodidi",
+     "Nina bakaMpondo",
+     "Nina bakaSibhaca",
+     "Nina bakaNomvuzo",
+     "Nina bakaMbeng'okusindayo",
+     "Nina bakaVangaye",
+     "Nina bakaMagutshwa",
+     "Wena waseMahlashana",
+     "Njezi",
+     "Nina basehlane nina bakwaNkomo zavul'inqaba",
+     "Zavul'inqaba ngezimpondo",
+     "Zingwazi zakithi kwaMadlala",
+     "Mahlashana!"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mhlongo",
+    "izithakazelo": [
+     "Makhedama",
+     "Soyengwase",
+     "Nina bakaBhebhe kaMthendeka",
+     "Nina bakaSoqubele onjengegundane",
+     "Nina baseSiweni",
+     "KwaMpuku yakwaMselemusi",
+     "KwaNogwence webaya",
+     "Dlomo weNdl'ende",
+     "Sihlangu samavaka seswel'ababhemu",
+     "Wen'owalala nomunw'endunu, wavuka wawuncinda wawukhomb'ilanga",
+     "Makhul'emini abafokazana beklul'ebusuku",
+     "Zingwazi zempi yakwaNdunu",
+     "Njoman'eyaduk'iminyakanyaka",
+     "Yatholakal'onyakeni wesine",
+     "Yabuye yatholakala ngowesikhombisa",
+     "Langeni",
+     "Owavel'elangeni!"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Magubane",
+    "izithakazelo": [
+     "Sishange",
+     "Nomshengu",
+     "Zikode kaMkhatshwa",
+     "Mafu",
+     "Heshane",
+     "Mafu amnyama",
+     "Mafu ahlonhlo",
+     "Maf'amafuya",
+     "Nina bakaMbeng'okusindayo",
+     "Nina baseMhlathuze phezulu",
+     "Nina beSishange",
+     "Nina bakaNozipho",
+     "Nina bakaNdube",
+     "Nina bakaMagubane obengayi ngamlenze",
+     "Sishange!"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Maphanga",
+    "izithakazelo": [
+     "Mnguni",
+     "Qwabe",
+     "Gumede",
+     "Mnguni kaYeyeye",
+     "Osidlabehlezi bakaKhondlo kaPhakathwayo",
+     "Abathi bedla, babeyenga umuntu ngendaba",
+     "Abathi 'dluya kubeyethwe'",
+     "Kanti bahlinza imbuzi",
+     "Bathi umlobokazi ubeyethe kayikhuni",
+     "Sidika lolodaba",
+     "Phakathwayo!",
+     "Wena kaMalandela",
+     "Ngokulandel' izinkomo zamadoda",
+     "Amazala-nkosi lana!",
+     "Mpangazitha!"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Mbhele",
+    "izithakazelo": [
+     "Godide",
+     "Mphemla",
+     "Ntuli",
+     "Ndlela kaSompisi",
+     "Sothole",
+     "Gudukazi uyiNcwayo",
+     "Khuboni",
+     "Sompisi owaphemba ngamakhand'amadoda",
+     "Abanye bephemba ngomlilo",
+     "Nina base Lenge",
+     "Enabonakala ngefu lezintuli",
+     "Kwabe kunguSompisi kaGuqa",
+     "kaMasalela",
+     "Mazimuzimu enidla'abantu",
+     "Mgwabini wemikhonto",
+     "Umahlatshwa ebuhleni njengethole",
+     "Umagaju njengengwe",
+     "Inhlangu eyeqa iphindaphinda",
+     "Umanxeba angamanxuluma",
+     "Kwasa bemhlaba uGwabini, waphika",
+     "Lang'elaphum'endlebeni yendlovu",
+     "Nyaka wumbe",
+     "Lophum' endlebeni yengwenya",
+     "Unonjiyelwa",
+     "Kulala uhlangothi lubomvu",
+     "Ugodo olumuka namankayiya",
+     "Langa!"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mchunu",
+    "izithakazelo": [
+     "Macingwane",
+     "Yeyesa",
+     "Phakade",
+     "Macingwane, wena waseNgonyameni",
+     "Jama kaSilwane",
+     "Nyanda yemkhonto",
+     "Phakade akagugi koze kuguge izngane zakhe",
+     "Wena kaNogida ngobambo ezinye izintombi zigida ngomshanyelo"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Mzobe",
+    "izithakazelo": [
+     "Lamula",
+     "Mbhobho",
+     "Sithenjwa",
+     "Mjoli",
+     "Mvuna",
+     "Nina baseMvunyane",
+     "Nina bakwaNkomo zavul'inqaba",
+     "Zavul'inqaba ngezimpondo",
+     "Nina bakwaMlindazwe",
+     "Lamula!"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Thwala",
+    "izithakazelo": [
+     "Mnyamande",
+     "Mkhont'oduma njengezulu",
+     "Mthala lomkhonto lisemaNyamandeni",
+     "Nhlangothi zimanxebanxeba",
+     "Wena kaMlamulankunzi ungaziyeki zibulalane",
+     "Wena kaSiwela owawela umfula ngesilulu",
+     "Mnyango kawuvalwa, uvalwa ngamakhand'amadoda",
+     "Ntshivakazi engenampondo",
+     "Bhijela wamaMbane",
+     "Sakade Thwala",
+     "Sikhandisa samakhosi",
+     "Mzimkhulu"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Xaba",
+    "izithakazelo": [
+     "Nonkosi!",
+     "Mashwabada",
+     "Owashwabadel'izindlubu namakhasi",
+     "Washwabadel'inkomo nezimpondo",
+     "Abahlephul'isinkwa siyebandla",
+     "Basebethi sihleshulwe umtwana",
+     "Kanti sihleshulwe nguMlandakazi!",
+     "Nomboko zinde",
+     "Mlotshwa!",
+     "Nina bakwaSinxe siyakhathala",
+     "Nonkosi omuhle nonyawo lwakhe",
+     "Zala kubusa nokuncishana!"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ximba",
+    "izithakazelo": [
+     "Mlaba",
+    "Ntungwa",
+    "Nondlela",
+    "Mzungulu",
+    "Mzazele",
+    "Msuthu",
+    "Thusi",
+    "Mabhoyi",
+    "Mungwe",
+    "Mbewumbili abamnyamana naba mhloshana",
+    "Nina enadla isicaba nasicazelana",
+    "Nina bakwalivunywa abavuma umfazi aliwa"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Zikalala",
+    "izithakazelo": [
+     "Khuzeni!",
+     "Mazibuko!",
+     "Mvelase!",
+     "Mpungose!",
+     "Khuba!",
+     "Gebisa!",
+     "Mabhengeza!",
+     "Maluleka iphilibana likaDonda",
+     "Ngoba leswelabavubeli",
+     "Mhayise!",
+     "Magwazindoinyelemphandeni",
+     "Nina bakwaNgonyama",
+     "Nina bakwaMnini",
+     "Mbangalaka!",
+     "Masikiphepha",
+     "Buthelinhlabathi",
+     "Nina bakwaMansumpa",
+     "Nina bakwaMadlikivana."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Biyase",
+    "izithakazelo": [
+     "Khathini",
+     "Gcwensa",
+     "Ndimande",
+     "Makhathini",
+     "Nina bakaNdimande",
+     "Nina baseNgilanyoni",
+     "Nina bakwaNkomo zavul'inqaba",
+     "Zavul'inqaba ngezimpondo",
+     "Nina bakwaMlindazwe",
+     "Khathini!"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Cebekhulu",
+    "izithakazelo": [
+     "Gobeni",
+     "Nsele",
+     "Mangethe Zikode kaPhikela",
+     "Wena wasEtsheni",
+     "UZwane akadlelanga phansi wadlela emkhombeni wezinyamazane",
+     "Edla im' hlambi yezinkomo zamadoda",
+     "Ndlangashushwana ngokudla amaNdebele",
+     "Bathi uZwane udleni kwaMntambo?",
+     "Kuthiwa udle izinjana zimbili zigcwele umdakana",
+     "Ntshosho!",
+     "Wena kamafu kawalingani",
+     "Aphansi naphezulu, ngoba aphezulu angubo ngubo",
+     "Ntele kaLinda kaMkhonto",
+     "Awungilinde ngilande ezami eZungeni",
+     "Mthanti",
+     "Nduna ngokuthwal' isila sensele",
+     "UNsele kangakanani",
+     "Ngoba nasothini lomkhont' angahlala",
+     "Isikhova singathi 'hhi' sibona imihlambi yezinkomo nabantu",
+     "Nin' enadlel encazeni",
+     "Nin' eniphakel umyeni odengeleni",
+     "Ngoba ningabenkosi",
+     "Zikode kaNdabansele",
+     "Mabhayi kawalingani nawangaphansi nawangaphezulu",
+     "Mangethe",
+     "Nina bakaVezi Owadl' isihlahla njengengwababane",
+     "Zwane",
+     "Phikela wengwe",
+     "Nselenduna nina basetsheni laseNtshenteka",
+     "Mandaba",
+     "Ukub' uMandaba wayengehlanga phezulu sasiyobuswa ngubani?",
+     "Zinkomo zakwaLinda ezimhlane ugcwele udaka",
+     "Ezathi zidl' ubhoqo kanti ziyawuhlakulela Ntshosho",
+     "Nina BaseMangweni"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chamane",
+    "izithakazelo": [
+     "Wosiyane",
+     "Nzama",
+     "Mashiza",
+     "Dingila, Chube",
+     "MaChube amahle",
+     "Nombhoco, Chube",
+     "Gcugcwa",
+     "Zukula kaNombhoco",
+     "Zukula, nina baseS'Chamaneni",
+     "Wena owawela ngelibanzi kwasala izindondo zacoshwa abafokazane",
+     "Nina bakwamfazi kashaywa ngemvubu",
+     "Kodwa ushaywa ngombhombolo wesidwaba",
+     "Mkhandi wensimbi",
+     "Nina enidume ngokugcagca insimbi amanye amakhosi edume ngesithembu",
+     "Gcugcwa ka-Ncameni",
+     "Ncameni ka-Nozaca!"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Chili",
+    "izithakazelo": [
+     "Mnguni!",
+     "Qwabe kaNozidiya",
+     "Khuzwayo! Mlamlankunzi",
+     "Ungaziyeka zibulalane",
+     "Mthathathu kaGumede",
+     "Nin' eniguvuzela umuntu ngehemu lakhe",
+     "Isigogo esisind' abatshathi",
+     "Donga olulal' amankentshane",
+     "Nina bas' Ongoye",
+     "Mbuse, Malinda",
+     "Lushaba",
+     "Ntseka",
+     "Wena owashaya insimbi ngomlenze",
+     "Mgcwalisi wethusi",
+     "Kholose, Ngwenya",
+     "Madlangalusuku abafokazana abadla nsukwana zonkana",
+     "Nin' enakhahl' udonga kwavuleka indlela",
+     "Nin' enehla ngesilulu maqede kwave'ilanga"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Chiliza",
+    "izithakazelo": [
+     "Mdunge",
+     "Chiliza",
+     "Shabalala",
+     "Zisuka zibekwa",
+     "Bhoyiya",
+     "Mdzakudza",
+     "Hlule hlophe",
+     "Wena owadunga amanzi baphuza abafokazana",
+     "Dunge elihle, dunge elimhlophe!",
+     "Mkhathini",
+     "Ngubonduna!"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Chocho",
+    "izithakazelo": [
+     "Chocho",
+     "Dlomo",
+     "Wena waseNdlunkulu",
+     "Hadebe",
+     "Mthimkhulu",
+     "Nina bakaMbeng'okusindayo",
+     "Nina bakaMafu amnyama",
+     "Nina bakaMafu ahlonhlo",
+     "Chocho!"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Dladla",
+    "izithakazelo": [
+     "Mgabadeli",
+     "Owagabadela izinkundla zakwaBulawayo",
+     "Gadlela",
+     "Dwala",
+     "Mpembe",
+     "Mhlophe",
+     "Vezi",
+     "Dladla",
+     "Mhlophe",
+     "Nyazitha",
+     "Magalel'agoqe njengeshongololo!"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dhlomo",
+    "izithakazelo": [
+     "Mkhabela",
+     "Dinangwe",
+     "Bhelesi",
+     "Khweba",
+     "Malala nomunwe endunu",
+     "Avuke ancinde akhwife eMpumalanga",
+     "Abuye ancinde akhwife eNtshonalanga",
+     "Sikhaba esingangenkomo!"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dlongolo",
+    "izithakazelo": [
+     "Dlongolo",
+     "Thintane",
+     "Mdumbe",
+     "Mawandla wena wesiguqa esaguqa kwamahamba eswazini",
+     "Siguqa esaguqisa abafokazane!",
+     "Nina enehla emthini ngembila yomthakathi",
+     "Bongwekazi",
+     "Siziba esikhulu esibhukuda amatshitshi nabafokazane"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Dlezi",
+    "izithakazelo": [
+     "Gogoda",
+     "Malalangonhlala",
+     "Khozo aliweli phansi",
+     "Luthi lulunye lucoshwe lubuyiselwe esakeni",
+     "Luthi lulunye luzale eziningi",
+     "Ngilande",
+     "Shusha",
+     "Ngcungama",
+     "Mal'evela"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dlungwane",
+    "izithakazelo": [
+     "Mpithikeza!",
+     "Mathaba",
+     "Ndlalakuhle",
+     "Nhlab'ishile",
+     "Luqa!",
+     "Zondi",
+     "Nondaba",
+     "Gagashe!"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dube",
+    "izithakazelo": [
+     "Dube elimthemde!",
+     "Dube kaBayisa",
+     "Khushwayo!",
+     "Mbuyazi kaThekeli",
+     "Ongathekeli nakwandodakazi",
+     "UZwakele ndoda",
+     "Ongathekeli emzinini emincane",
+     "Othekelemzinimikhulu",
+     "Ongathekeli kwamakhelwana",
+     "Othekelemanxulumeni",
+     "Nina bakwaDonda kwaMbangambi",
+     "Ndlovu khaliphezinye zilibele",
+     "Nina bakwaNzwakele kaKhushu",
+     "Nina beshumi lamhla munye",
+     "Nina bakwaMagwazebuyelela",
+     "Nina beqhawe lakwaLindukudla Shozi!",
+     "KaFani kaNomkhwayiba",
+     "KaFana fuzamafu",
+     "Dlubuladledle!",
+     "Ntamo ngeyendlondlo",
+     "KaSiphabantu ngokubadlubulela",
+     "Ngeze ngonyama entanyeni",
+     "Ngoba yehle kanzima kanzizimela",
+     "KwaMgwezi wamaduna namathokazi",
+     "KaNomkhwayiba waseKunene",
+     "Silwane kaNjila kaNgothoma",
+     "Mqhawe",
+     "Ngcobomuhle",
+      "Mafukuzela"    
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Duma",
+    "izithakazelo": [
+     "Ntenga",
+     "Mthombeni",
+     "Lwandle kaluwelwa luwelwa zinkonjane kuphela zona ezindiza phezulu",
+     "Ngongolozi owaphekwa netshe",
+     "Kwavuthwa lona kuqala",
+     "Thabisa",
+     "Mvenya!"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Dumakude",
+    "izithakazelo": [
+     "Mngcobo",
+     "Nzimase",
+     "Mpunz'edl'emini",
+     "Ebusuku iyalala",
+     "Luhagane olwahaga umfazi esibunjini kwaze kwasa ethwibisheka",
+     "Msongi wensimbi wayibeka ekhanda",
+     "Nyawo!"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Gasa",
+    "izithakazelo": [
+     "Soshangane",
+     "Manukosi",
+     "Nxumalo",
+     "Ndwandwe",
+     "Zikode kaGasa",
+     "Mnguni",
+     "Wena waseTshaneni",
+     "Wena kaNsele",
+     "Nina bakwaGasa owagasa amanye amakhosi amancane",
+     "Nina bakwaPhawu olubomvu",
+     "Mlawu"
+    ]
+  },
+  {
+    "id":50,
+    "name": "Gatsheni",
+    "izithakazelo": [
+     "Ndlovu",
+     "Boya benyathi, obusonga busombuluka",
+     "Mpongo kaZingelwayo",
+     "Nina bakwaNdlovuzidl'ekhaya, ngokweswel'abelusi",
+     "Zaze zeluswa intombi uDemazane",
+     "Nina bakwaKhumbul'amagwala",
+     "Nina bakwaDemazane Ntombazana",
+     "Nina bakwaS'hlangu sihle",
+     "Mthiyane",
+     "Ngokuthiy'amadoda emazibukweni",
+     "Nina bakwaMdubusi!"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Gcwensa",
+    "izithakazelo": [
+     "Ndimande",
+     "Mzulwini",
+     "Shozi",
+     "Dumisa",
+     "Mlokothwa!",
+     "Msundu omude engabe mfishane ufuze 'khaya konina",
+     "Somuhle",
+     "Mashaya!"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Goge",
+    "izithakazelo": [
+     "Ncome",
+     "Gebhu owagebhuza uzulu",
+     "Thumbeza",
+     "Magagisa",
+     "Sakheleni",
+     "Thole leduna",
+     "Sincuze",
+     "Noy'shada kamaqhoboza",
+     "Mabonabulawe njengenyamazane",
+     "Mathundenkundleni kuvele ithole"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Goqe",
+    "izithakazelo": [
+     "Ndaba!",
+     "Mwelase ongaweli ngazibuko owela ngezimpambosi zomfula",
+     "Nomvikela kaNokulamba kaDelwa",
+     "Sobahle",
+     "Dubandlela",
+     "Ndongadilika kuphuze izimpohlo",
+     "Godo olungahlalwa nyoni oluhlalwa amankankane kuphela",
+     "Amalala amahle alalanomunwe endunu avuka awuncinda akhomba ilanga",
+     "Lwembu olumahwatha othi ungaluthinta luhwathabale"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Gumbi",
+    "izithakazelo": [
+     "Khanye!",
+     "Mdladla",
+     "Gumbi",
+     "Thabethe",
+     "Ndzimase",
+     "Mpondo",
+     "Wena wasemaMpondweni",
+     "Sivuna semvula",
+     "Khanye!"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Hadebe",
+    "izithakazelo": [
+     "Hadebe!",
+     "Mthimkhulu!",
+     "Bhungane kaNsele",
+     "Nzimande",
+     "Wena kaLangalibalele kaNdlubu ezamila endaweni embi ngoba zamila emthondweni",
+     "Amangelengele anzipho zinde ngokuziqhwandela",
+     "Makhulukhulu!",
+     "Hadeb' omuhle okhonz' agoduke",
+     "Angaze axakwe yithambo lasemzini",
+     "Sigoloza esikhangel' umuntu sengathi simjamele",
+     "Umkhulu Bhungane",
+     "Kodwa awungangoNkulunkulu"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Hlatshwayo",
+    "izithakazelo": [
+     "Hlatshwayo",
+     "Mhayise!",
+     "Ngwane!",
+     "Ngele!",
+     "Bogama!",
+     "Siyendane",
+     "Nina bakaNomapulet' afanini",
+     "Nina bakaXhaphezumabuka",
+     "Mhayise wakwaNgelemuti",
+     "Kuyosal' iziphunzi",
+     "Zisale zibaloyis' abasizondayo",
+     "Nina bakwaMgogodlana",
+     "Nina bakwaSiyendane",
+     "Nina bakwaMaqaba"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Hlela",
+    "izithakazelo": [
+     "Madlula",
+     "Kunene",
+     "Mphumela",
+     "Maqeda kaNkani",
+     "kadabula iziziba",
+     "Hangala",
+     "Malakubuswa",
+     "Hlangakazi",
+     "Nyongo yenyathi",
+     "Mashiya amambi",
+     "Nhlonhlonthi",
+     "Ngcwingcwi Ezikhotha komude ngoba komfishane ziyagoba!"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Hlomuka",
+    "izithakazelo": [
+     "Ngidi",
+     "Bophela",
+     "Busane",
+     "Fuyane",
+     "Mazinga",
+     "Mlalazi kaNoxhaka",
+     "Laka lathengwa ngembuzi",
+     "Imbuzi kwakungeyempongo",
+     "Wena bhaka laseMakhasi",
+     "Wena nyoka zakhwela emthini zingenanyawo",
+     "Wena nkomo zehla ngelengiso estikini",
+     "Wen'okandunu mabukwa yombili abasezitheni nabasekhaya",
+     "Dlokwe lendlovu",
+     "Jiji Mankononkono",
+     "Geza ngenhla abafokazane begeza ngezansi",
+     "Mnguni!"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Hlophe",
+    "izithakazelo": [
+     "Hlophe",
+     "Samela",
+     "Thumbeza kaMyeni",
+     "Intombi zenda ngonyezi",
+     "Ezabafokazane zenda ngobumnyama ziyabuya emendweni",
+     "Nompula",
+     "Dlezi",
+     "Mabhengu",
+     "Khonkosi",
+     "Wena kaMyeni",
+     "Wena kaSondo",
+     "Wena kaGajula"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Jama",
+    "izithakazelo": [
+     "Dlamini",
+     "Mzizi",
+     "Jama kaSijadu",
+     "Nomane",
+     "Mtikitiki",
+     "Cubungulashe",
+     "Ndabazamthethwa",
+     "Nsukunsuku",
+     "Ntabuyanyuka",
+     "Sandluluba",
+     "Nkosi!"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Jele",
+    "izithakazelo": [
+     "Nonyanda",
+     "Luvuno",
+     "Nguboyengwe",
+     "Gasa",
+     "Malembe",
+     "Mthiyane",
+     "Cebisa",
+     "Dladlami",
+     "Makhaza",
+     "Mlotshwa",
+     "Ndawonde",
+     "Nhlapo",
+     "Khabela",
+     "Sokhulu",
+     "Skhangane esakhang'amadoda",
+     "Nkala",
+     "Vumisa",
+     "Mpandane!"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Jiyane",
+    "izithakazelo": [
+     "Mkhathini",
+     "Magolwane",
+     "Zikode",
+     "Mzilankatha",
+     "Phangela koqhoqhoqho",
+     "Mashishwana",
+     "Mbopha kaSthayi",
+     "Gome kamshebe",
+     "Mandlazi othab'izolo",
+     "Mahlinza!"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Khambule",
+    "izithakazelo": [
+     "Mzilankatha",
+     "Inkatha kayingen'endlini",
+     "Yangena kubola izinkaba zabantwana",
+     "Nina bakaNkomo zilal'uwaca",
+     "Ezamadojeyana zilal'amankengana",
+     "Mlotshwa",
+     "Malandel'ilanga umaliyoshon'emaNcubeni",
+     "Mpangazitha",
+     "Magasolo",
+     "Nina basebuhlen'obungangcakazi",
+     "Abadl'embeleni wenkomo kungafanele",
+     "Kwakufanel'udliwe ngabalandakazi",
+     "Nina bakaDambuza Mthabathe",
+     "Nina basemaNcubeni enabalekel'uShaka naziphons'emfuleni",
+     "Kwakhuz'abantu benifihla",
+     "Nafik' eSwazini naphenduk'uNkambule",
+     "Msuthu",
+     "Mncube onsundu ngezinyawo zakho",
+     "Wen'oyithath'iNkosi uyibek'enhlabelweni",
+     "Nina baseSilutshana",
+     "Nin'enakhelana noMbunda",
+     "Nina bakaMaweni",
+     "Nzimande",
+     "Mncaphayi",
+     "Shezi",
+     "Malangatsha!"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kheswa",
+    "izithakazelo": [
+     "Kheswa!",
+     "Nozulu!",
+     "Mpangazitha!",
+     "Mchumane!",
+     "Mnguni",
+     "Abanguni abangakanani",
+     "Ngoba nasechopheni leqhiya (leduku) bayenela!",
+     "Izulu eladuma ekuseni",
+     "Kwathi ntambama laphangalala!",
+     "Nina enehlis'uBuhhedlana",
+     "Amangelengel'awel'iMpofana nawel'uThukela!",
+     "Nawela ngesilulu nibheke eBusuthu",
+     "UMchachambi wezulu eliphezulu!",
+     "Amazalankosi, Omabelemade!",
+     "Mancumane nibahle njengokudla kwasehlobo!",
+     "Intombi engagananga kwaKheswa",
+     "Iyozala izinkwapha ngezinkwapha",
+     "Egane kwaKheswa izale amacocobele!"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Khanyile",
+    "izithakazelo": [
+     "Sothole",
+     "S'tshopo othi udl' inkomo kanti udl' impisi",
+     "Umashaya umuntu aphindele lapho aphuma khona",
+     "Odl, isinkwa esinothotho",
+     "Mahamba kancane Sogodi",
+     "Phondo olukhulu elavuma kwavuma amadoda",
+     "Shalashala elihle elithukuvuma ukulandula",
+     "Ntunjwa kaLanga",
+     "Mthiyane",
+     "Ndwandwe",
+     "Zikode",
+     "Mabhuqa",
+     "Ngwane",
+     "ULanga ongenandlebe angaba nendlebe weza nonina",
+     "Inhliziyo eyasala ezaleni kwasa bayicosha ngakusasa!"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Khoza",
+    "izithakazelo": [
+     "Mlotshwa",
+     "Msuthu",
+     "Mkhathini",
+     "S'phan'abantwana",
+     "Ndlelehamb'ekhaya",
+     "Eyanqamula kwaMlandakazi",
+     "Mancencence",
+     "Hlabisa odlulayo",
+     "Ngoba olele akahlatshiswa, uyidla aze ayiqede",
+     "Wena wakaMpahl'emhlophe",
+     "Ingaba bomvu isiyonake",
+     "Ntshingwayo",
+     "Mangena",
+     "Mlilo",
+     "Skotana",
+     "Mabona",
+     "Nomageja",
+     "Sokhabase",
+     "Ntshamase",
+     "Ndlandla!"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Khuzwayo",
+    "izithakazelo": [
+     "Gumede",
+     "Qwabe",
+     "Mnguni kaYeyeye",
+     "Khondlo",
+     "OSidlabehlezi bakaPhakathwayo",
+     "Abathi bedla, bebebeyenga umuntu ngendaba",
+     "Bethi, 'Dluyeya ngenhlana, umalokazana ubeyethe, kuyikhuni sidingida yoyodaba!'",
+     "Kanti bahlinz'imbuzi",
+     "Malandela, ngokulandel' izinkomo zamadoda",
+     "Phakathwayo!"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Khwela",
+    "izithakazelo": [
+     "Khwela",
+     "Nduli",
+     "Mgabhazi!",
+     "Sicubu kasosiwa siphekwa ngembiza ende kaMahhumela"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Kubheka",
+    "izithakazelo": [
+     "Khathide",
+     "Masobode",
+     "Wena owasobodela udlubu nokhasi",
+     "Mgwaqo awedlul'esibayeni, ngoba kuvalwe ngamakhanda amadoda",
+     "Mbend'ebomvu enjengetolwane",
+     "Boya obuningi obungangenyathi",
+     "Mbokod'ebomvu kaMagayiza esunduza abeSuthu namaNdebele",
+     "Sicabha esihle esakhothwa izinyoni zakwaKhathide",
+     "Sombheshane",
+     "Makhunga, wena owakhunga izimbila emgedeni, zaphuma zingenamisila",
+     "Nanamuhla azinawo umsila ngesimanga sikaMaKhunga",
+     "Ndolwane",
+     "Magonondo!"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Madonsela",
+    "izithakazelo": [
+     "Madonsela",
+     "Mtimande",
+     "Lubambo lunye",
+     "zingaba mbil'ufuz'ekhabonina",
+     "Masango makhulu nawabantu nawezinkomo",
+     "Nina bakwa Malambule",
+     "Okwathi uMalambule ebanga noMswazi nathi, 'Malambule phambili!'"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Kweyama",
+    "izithakazelo": [
+     "Vezi",
+     "Mnembe",
+     "Mgabadeli",
+     "Wena owawela ngezibul'elikhulu elawela amakhosi!"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Lamula",
+    "izithakazelo": [
+     "Lamula",
+     "Jiyane",
+     "Mpangazitha omhlope",
+     "Silokazi kawugezanga wabuya nensila emfuleni wathi ugezile kanti unyambisile",
+     "Bantwini",
+     "Mthonti",
+     "Thembu",
+     "Lutholoni",
+     "Mdlenevu!"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Langa",
+    "izithakazelo": [
+     "Sothole",
+     "Sodumase",
+     "Madevu aqqabul'inkomishi",
+     "Phokophalala mnikolusha ngoba oludala lumbangela isilungulelo",
+     "Shiy'abantu",
+     "Nyongo yendlovu",
+     "Madl'umlenze adele isidumbu",
+     "Madubandlela",
+     "Ngwane",
+     "Mcwayi",
+     "Gubhazi",
+     "Mlindeli",
+     "Mdlaka kaSodumase"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Lukhele",
+    "izithakazelo": [
+     "Mdluli",
+     "Nyoka",
+     "Nzimande",
+     "Mhlanti wendl'enkhulu",
+     "Mavovo emvula",
+     "Nyoni leyasindvwa sisila kusuka",
+     "Mdluli wendlovukati",
+     "Nabonkhosi",
+     "Wena lowatseng'emanga ngesitfole lesijoli ngembala",
+     "Esikhaleni sabhodwe",
+     "Thumela"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Ndwendwe",
+    "izithakazelo": [
+     "Zwide kaLanga",
+     "Mkhatshwa",
+     "Okhabangezinde nezimaqhukubezana",
+     "Nkabanhle",
+     "Wena wase Gudunkomo",
+     "Wena owasezikhotheni, ezingakhothi ngamlomo, ezikhotha ngomkhonto kaZulu",
+     "Nkomo ayihlatshwa, uyothi ungayihlaba yophe amasi njengo mbhelebehle",
+     "Sandla sivikumkhonto njengehawu",
+     "Hlubi",
+     "Sandla simnene",
+     "Somaphunga",
+     "Nonkokhel'abantu bahlatshwe njenge zinkomo!"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Nene",
+    "izithakazelo": [
+     "Sthenjwa",
+     "Vezi",
+     "Nqoyi",
+     "Mngadi",
+     "Ngema",
+     "Madlokovu",
+     "Wena waseNgweni",
+     "Ntusi yenkomo",
+     "Goda elimnyama elihamba libahila amanqina namaqakala",
+     "Wena wasemfule",
+     "Sithuli sasengweni esingasho lutho kumuntu",
+     "Mathanga akahlangani ahlangana uma ebona umyeni",
+     "Mashiya amahle ngathi azoshumayela",
+     "Madlokovu kangakanani ngoba nasentendeni yesandla uyanela!"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ngcobo",
+    "izithakazelo": [
+     "Mapholoba",
+     "Nyuswa",
+     "Fuze",
+     "Mavela",
+     "Mafuz'afulele njengefu lemvula",
+     "Mashiya amahle ngathi azoshumayela",
+     "Dambuza",
+     "Mthabathe",
+     "Mabhala ngozipho abanye bebhala ngepensela",
+     "Malal'efake umunwe endunu",
+     "Avuke ekuseni awuncinde akhombe ilanga",
+     "Mavulankungu kuvel'ilanga",
+     "Sididane",
+     "Ngongoma",
+     "Maqadi amakhulu",
+     "Mbili!"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Ngema",
+    "izithakazelo": [
+     "Mngadi",
+     "Madlokovu",
+     "Ntusi yenkomo",
+     "Nene",
+     "Wena nasentendeni yesandla uyanela",
+     "Muji",
+     "Nina baseNgweni",
+     "Sthenjwa",
+     "Madlokov'esengweni",
+     "Sabel'uyabizw eNkonjeni ubizwa abamhlope ukuzokhuluma ngomhlabathi wakini kaMalandela",
+     "Sthuli saseNgweni!"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Ngubane",
+    "izithakazelo": [
+     "Mbovu",
+     "Somahhashi",
+     "Noniyezwe",
+     "Nomafu",
+     "Myaluza",
+     "Ngcukumane",
+     "Zikode elimhlophe",
+     "Matomela",
+     "Nzombane",
+     "Ngogozabantu",
+     "Nomasikisiki",
+     "Nyon' esindwa isisila sayo",
+     "Ndoda kaNyamazane",
+     "KaSodlelezi esadl' amabele amhlophe sawashiya nenkehlane",
+     "Ngcwingcw' ephuza kwezid' iziziba",
+     "Uma ingaphuza kwezimfushane umlomo ungabuya nodaka",
+     "Vathu oluphezulu ngoba oluphansi olwabafokazane",
+     "Nina baseMabovini okwakhala inkomo kwakhala imbuzi kwasha imizi",
+     "Nomaphikwane!"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Ngwane",
+    "izithakazelo": [
+     "Sangweni",
+     "Zikhali",
+     "Masumpa",
+     "Ndungunde",
+     "Masengasileke",
+     "Hlongwane",
+     "Ndukuzinobulongwe",
+     "Mntungwa",
+     "Nina enibahle njengezihlabathi zolwandle",
+     "Siyane",
+     "Mnqobokazi",
+     "Songobese!"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Nkosi",
+    "izithakazelo": [
+     "Ndlangamandla!",
+     "Nkonyane yenkosi!",
+     "Wena okaMphazima kaLanga",
+     "Wena okaMlotshwa kangakanani nasentendeni yesandla uyenela",
+     "Nina bakaLanga libomvu wasemaNtungweni owadla umuntu emyenga ngendaba",
+     "Nina bakaSoyidina odine abezizwe nabezizwana",
+     "Mawandla kaNdlovu",
+     "Siwela sasemaNdlovini esadla ekhaya ngokweswela abelusi",
+     "Nina bephela enasinela inkondlwane nithi ngamasi",
+     "Nina bakaBheje eseNgome!"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Ntuli",
+    "izithakazelo": [
+     "Godide",
+     "Ntulizenkomo",
+     "Mphemba",
+     "Ndlela kaSompisi",
+     "Sothole",
+     "Gudukazi uyiNcwayo",
+     "Khuboni",
+     "Sompisi owaphemba ngamakhand'amadoda",
+     "Abanye bephemba ngomlilo",
+     "Nina base Lenge",
+     "Enabonakala ngefu lezintuli",
+     "Kwabe kunguSompisi kaGuqa, kaMasalela",
+     "Mazimuzimu enidla'abantu",
+     "Mgwabini wemikhonto",
+     "Umahlatshwa ebuhleni njengethole",
+     "Umagaju njengengwe",
+     "Inhlangu eyeqa iphindaphinda",
+     "Umanxeba angamanxuluma",
+     "Kwasa bemhlaba uGwabini, waphika",
+     "Lang'elaphum'endlebeni yendlovu",
+     "Nyaka wumbe",
+     "Lophum' endlebeni yengwenya",
+     "Unonjiyelwa",
+     "Kulala uhlangothi lubomvu",
+     "Ugodo olumuka namankayiya",
+     "Langa!"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Nyembe",
+    "izithakazelo": [
+     "Ncamane",
+     "Skhandisa samakhosi kaShusha",
+     "Thwala lomzimkhulu",
+     "Mnyamande",
+     "Mkhont' oduma njengezulu",
+     "Ithala lomkhonto lisemaNyamandeni",
+     "Nhlangothi zimanxebanxeba",
+     "Wena kaMlamulankunzi ungaziyeki zibulalane",
+     "Wena kaSiwela owawela umfula ngesilulu",
+     "Mnyango kawuvalwa, uvalwa ngamakhand' amadoda",
+     "Ntshivakazi engenampondo",
+     "Bhijela wamaMbane",
+     "Sakade kaGemane",
+     "Gemane kaSiwela",
+     "Nzilagazi!"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Nzama",
+    "izithakazelo": [
+     "Wosiyane",
+     "Gcugcwa",
+     "Mashiza",
+     "Dingila",
+     "Mkhandi wensimbi",
+     "Nina enidume ngokugcagca insimbi amanye amakhosi edume ngesithembu",
+     "Wena owawela ngelibanzi kwasala izindondo zacoshwa abafokazane",
+     "Nina bakwamfazi kashaywa ngemvubu kodwa ushaywa ngombhombolo wesidwaba",
+     "Zukula kaNombhoco",
+     "Gcugcwa kaNcameni",
+     "Ncameni kaNozaca",
+     "Nina baseNtendeni!"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Ngcamu",
+    "izithakazelo": [
+     "Mkhabela",
+     "Shozi",
+     "Gaba",
+     "Mlothswa",
+     "Maphalala njengophoko",
+     "Lokoza!",
+     "Maloko",
+     "Mzilankatha",
+     "Shelembe",
+     "Kwadlula intuthwane ithwele kwadlula engathwele",
+     "Ncube",
+     "Khambule",
+     "Mpangazitha!",
+     "Mathula kamjezi",
+     "Ngcamu ombewumbili njengodlubu luka mbokazana",
+     "Mkhathini!"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Nkabinde",
+    "izithakazelo": [
+     "Mcusi",
+    "Mphondle kaNdlolothi",
+    "Mafuya",
+    "Ngokufuyinkabi",
+    "Nina bakaMabelemade",
+    "Oncelisumntwana",
+    "Engaphesheya komfula",
+    "Siyobi!",
+    "Gama Mboyisa!",
+    "Abakhokhelabantu behlezi",
+    "Ubusika nehlobo"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Shandu",
+    "izithakazelo": [
+     "Mbatha",
+     "Shandu kaNdaba",
+     "Sontshikaze",
+     "Manyosi",
+     "Gumbi lamagwala",
+     "UShandu akangakanani,nasentendeni yesandla engahlala",
+     "Nasothini lomkhonto uyenela",
+     "Mthiya ngenkomo abafokazane bethiya ngamahlahla",
+     "Shandu owalima insimu wayilimela izinyoni",
+     "Zase zimbonga zathi tshiyo! tshiyo!",
+     "Bhabha Magwaza",
+     "Nkentenkente",
+     "Olwakhela izintaba zase Nhlazatshe",
+     "Kwaze kwaphuma abafazi bengabhincile",
+     "Bathi ingabe lolu nkentenkente lwenzani",
+     "Ndaba koMkhulu",
+     "Ndabezitha!"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Shezi",
+    "izithakazelo": [
+     "Dlaba!",
+     "Shukulasidludle",
+     "Mnomiya",
+     "Dludle",
+     "Dludl' owadl' imihlambi yamadoda",
+     "Wadl' izinkomo zamaNdebele",
+     "Oyodl' ezikaDlaba uyoceba!",
+     "Dlab' akadleli phansi",
+     "Udle' edlodlweni",
+     "Abanye bedlela phansi",
+     "Mavulane owavul' iNkandl' ivaliwe",
+     "Mchube",
+     "Mlotshwa",
+     "Wena kaLumbazo",
+     "kaZokufa",
+     "Sigananda phum' eNkandla!"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Sibiya",
+    "izithakazelo": [
+     "Ndaba",
+     "Gumede",
+     "Sibiya ngenkomo, abafokazane bebiya ngamahlahla",
+     "Nina bakwankom'isengelwa emaweni",
+     "Ingasengelw'esibayeni akuyon'eyakhona",
+     "Gumede kaNdaba,umanyelela njengentombi iy'esokeni",
+     "Mkhananda owafinyelela kubalondolozi",
+     "Wemuka noGodokazi way'eMfolozi",
+     "UHhiya kwabanani",
+     "Okwaphwekwa esendlini",
+     "Kwaze kwephulwa esendlini,engazange afe ukufudumala",
+     "Mgxebe!",
+     "Khathi!",
+     "Nina bakaSotobe kaMpangalala!"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Sikhakhane",
+    "izithakazelo": [
+     "Mboma kaMqhele",
+     "Mathula",
+     "Nzimase",
+     "Sdwaba esinemvobo",
+     "Wena sango elingezantsi, lapho besa khona imilomo",
+     "Wena owangena nesikhuni emanzini sivutha, waphuma naso sivutha",
+     "Wena kaMboma os'hlahla samila edwaleni",
+     "Wena kaSoqhafuza, umlung'odla izinkobe",
+     "Wena nyoka eyacaca emthini ingenazinyawo",
+     "Inkomo esengelwa emeveni ngoba wayisengela ethungeni iyalikhahlela",
+     "Wena okhishwa ngenoni emgodini",
+     "Wena ophatha amakhosi uma esedukuzela",
+     "Wena owahlabana ngokwehlula izinyanga nezanuse",
+     "Wasuka lapho waxhoshiswa ngokaSenzangakhona, ngezinkomo zekhethelo",
+     "Wakhushulwa, awabanankosi, ngoba inkosi yakho kunguNodumehlezi kaMenzi",
+     "Mboma, wena wase Nkandla!"
+    ]
+  }
+]
