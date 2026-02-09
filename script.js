@@ -217,7 +217,7 @@ function searchClans(query) {
     }
 
     const results = clansData.filter(clan =>
-        clan.name.toLowerCase().includes(query.toLowerCase())
+    clan.name.toLowerCase().startsWith(query.toLowerCase())
     );
 
     if (results.length === 0) {
@@ -233,11 +233,19 @@ function searchClans(query) {
     }
 
 
-    container.innerHTML = results.map(clan => `
-        <a href="clans/${clan.name.toLowerCase()}.html" class="clan-tag">
-            ${clan.name}
-        </a>
-    `).join('');
+    container.innerHTML = `
+    <div class="clan-group">
+        <h3>Search Results</h3>
+        <div class="clan-tags">
+            ${results.map(clan => `
+                <a href="clans/${clan.name.toLowerCase()}.html" class="clan-tag">
+                    ${clan.name}
+                </a>
+            `).join('')}
+        </div>
+    </div>
+    `;
+
 }
 
 // ============================================
